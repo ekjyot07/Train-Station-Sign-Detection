@@ -10,12 +10,14 @@ An OpenCV application for locating and recognizing information signs from Dublin
 
 **A few images showing the final result:**
 
-<img align="left" width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/a.png">
-
 <p float="left">
   <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/a.png" />
   <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/b.png" /> 
-  <img src="/img3.png" width="100" />
+</p>
+
+<p float="left">
+  <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/c.png" />
+  <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/d.png" /> 
 </p>
 
   ![Image A](https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/a.png)
