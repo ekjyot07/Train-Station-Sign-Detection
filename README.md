@@ -9,21 +9,19 @@ An OpenCV application for locating and recognizing information signs from Dublin
 <br/>
 
 **A few images showing the final result:**
-
+<br/>
 <p float="left">
-  <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/a.png" />
-  <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/b.png" /> 
+  <img width="400" height="400" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/a.png" />
+  <img width="400" height="400" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/b.png" /> 
 </p>
 
 <p float="left">
-  <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/c.png" />
-  <img width="500" height="500" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/d.png" /> 
+  <img width="400" height="400" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/c.png" />
+  <img width="400" height="400" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/d.png" /> 
 </p>
 
-  ![Image A](https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/a.png)
-  
-  ![Image B](https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/b.png)
+<p float="left">
+  <img width="400" height="400" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/e.png" />
+  <img width="400" height="400" src="https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/f.png" /> 
+</p>
 
-  ![Image C](https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/c.png)
-
-  ![Image D](https://github.com/ekjyot07/Train-Station-Sign-Detection/blob/master/Blue%20sign%20images/d.png)
