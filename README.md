@@ -5,8 +5,8 @@ An OpenCV application for locating and recognizing information signs from Dublin
 * Precision: 93%,
 * Recall: 85%,
 * F1 score: 88%.
-
-
+<br/>
+<br/>
 
 **A few images showing the final result:**
 
